@@ -108,6 +108,8 @@ First clone the repo, if you haven't done so already:
 $ git clone https://github.com/do-community/cloud_haiku.git
 ```
 
+### Amazing
+
 Then change into the new directory and install the dependencies with `npm`:
 
 ```shell
